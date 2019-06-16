@@ -4,7 +4,7 @@
 这个脚本可以获取开设 xx 专业的大学, 你可以按照 本科一批(一本) 和 本科二批(二本) 来获取
 
 ### 使用到的命令及软件包, 请确保你有
-`bash`, `echo`, `curl`, `grep`, `egrep`, `sed`
+`bash`, `echo`, `curl`, `grep`, `egrep`, `sed`, `cat`, `uniq`, `tee`
 
 ### 使用方法
 1.首先打开这个网址:[http://kaoshi.edu.sina.com.cn/college/scorelist?tab=major](http://kaoshi.edu.sina.com.cn/college/scorelist?tab=major)  

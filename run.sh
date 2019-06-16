@@ -21,3 +21,6 @@ done
 
 sed -i "s/'>//g" result
 #   最后使用 sed 工具移除文件中的 '> 字符
+
+cat result | uniq | tee result
+#   输出结果, 并更新文件(合并重复结果)
