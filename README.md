@@ -36,6 +36,5 @@ http://kaoshi.edu.sina.com.cn/college/scorelist?tab=major&majorid=08&wl=2&local=
 
 ### 关于状态码
 只要是 0 就没有问题, 出现其它状态码请使用 `man curl` 命令, 在最后有状态码的说明  
-(当然, 请确保你有 `man` 命令)
 
 ### 本仓库中 [result](https://github.com/VergeDX/UniversitySpider/blob/master/result) 文件即为结果示例
